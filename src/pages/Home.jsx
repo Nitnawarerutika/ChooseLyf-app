@@ -1,11 +1,10 @@
 import React from "react";
 import {Link} from "react-router-dom";
-// import medusa from "../medusa-logo.svg"
 
 export default function Home() {
     return (
         <div className="Home">
-           {/* <img src={medusa}  alt=""  className="home--logo" /> */}
+         
            <img src="logo192.png"  alt=""  className="home--logo" />
 
             <div className="home--landing text">
