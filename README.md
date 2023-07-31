@@ -7,6 +7,8 @@
 
 3.npm start.
 
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 <b>Screenshots - </b>
 
 1.Home page with Signup option via google account - 
