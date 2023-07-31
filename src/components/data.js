@@ -34,9 +34,5 @@ export default [
         title: "Privacy and Security",
         gist: "None of your personal data is stored on our servers. It's all on your device, or on your Google Drive.",
     }
-    // , {
-    //     imageUrl: med,
-    //     title: "Easy Exports",
-    //     gist: "Medusa makes exporting your health reports easier than ever. Save a copy to your local device and share it with your doctor.",
-    // }
+   
 ]
