@@ -1,4 +1,4 @@
-# ChooseLyf-app - Kratin assignment
+# ChooseLyf-app 
 * <b>Steps -</b>
 
       1.Download code.
